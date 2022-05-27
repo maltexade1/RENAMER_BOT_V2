@@ -1,6 +1,6 @@
 # RENAMER_BOT
 
-Telegram File Renamer Bot 
+Telegram File Renamer Bot. 👌 
 
 <p align="center">
   <a href="https://www.python.org">
@@ -36,7 +36,7 @@ Telegram File Renamer Bot
 * `/broadcast` reply to message
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lntechnical2/RENAMER_BOT_V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/maltexade1/RENAMER_BOT_V2?organization=maltexade1&organization=maltexade1)
 
 ## License
 ````
